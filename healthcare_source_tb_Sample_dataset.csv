@@ -1,0 +1,270 @@
+patient_name,patient_gender,patient_dob,patient_address,patient_city,patient_state,patient_zip_code,patient_phone_number,doctor_first_name,doctor_last_name,doctor_specialty,doctor_department,department_name
+Carlos Rogers,Male,2013-11-14,08652 Lisa Falls,North Leah,VI,93936,873-647-5160,Barbara,Frazier,Endocrinologist,D-INTER,Internal Medicine
+Erin Patton,Non-Binary,1962-08-02,67095 Heather Land Suite 097,South Scottside,VT,30763,314-772-4832,Larry,Stone,Sports Medicine Specialist,D-ORTHO,Orthopedics
+Paul Evans,Non-Binary,2017-12-14,71191 Mendoza Greens,West Kaylaburgh,WI,03457,001-412-810-9686,Miguel,Trujillo,Orthopedic Surgeon,D-ORTHO,Orthopedics
+Cynthia Chan MD,Male,1991-10-03,62706 Joseph Vista Suite 717,Fullerberg,MN,29194,393-392-3344,Linda,Flores,Primary Care Physician,D-INTER,Internal Medicine
+Danny Villanueva,Non-Binary,1962-05-25,1759 Timothy Stream Suite 079,Blackville,OH,50262,+1-701-894-9835x30969,Alejandro,Jones,Neonatologist,D-PEDIA,Pediatrics
+Lori Perez,Male,1951-12-12,98522 Raymond Views Suite 977,Travisfurt,NM,36310,(870)752-8615x97373,Phillip,Barnes,Pediatrician,D-PEDIA,Pediatrics
+Diamond Neal,Male,1982-11-13,2982 Tiffany Pass,New Michaelmouth,KS,87966,9508154516,Phillip,Barnes,Pediatrician,D-PEDIA,Pediatrics
+Julia Hawkins DDS,Female,1979-08-27,683 Luke Oval Suite 897,West Chadmouth,IA,01545,710-284-0116,Jennifer,Brown,Cardiologist,D-CARDI,Cardiology
+Zachary Garcia,Female,1964-10-17,57746 Jesse Island Apt. 106,Danielshire,WV,21242,3505776643,Barbara,Frazier,Endocrinologist,D-INTER,Internal Medicine
+Jordan Miller,Male,1997-11-06,70676 Stacie Ports Suite 515,West Carolynchester,WY,92290,904.490.5336x8779,William,Griffin,Dermatologist,D-DERMA,Dermatology
+Tammy Bailey,Male,1970-01-14,5370 Marshall Prairie,Jeffreyport,AL,63665,+1-716-366-3712,Jennifer,Brown,Cardiologist,D-CARDI,Cardiology
+Michelle Mcdonald,Male,1936-02-10,0132 Reeves Manors Apt. 073,Connershire,WA,88745,463.209.6223x3253,Miguel,Trujillo,Orthopedic Surgeon,D-ORTHO,Orthopedics
+Alice Gallegos,Female,1993-09-18,383 Meza Avenue,New Melissa,WA,52922,5526516812,Linda,Flores,Primary Care Physician,D-INTER,Internal Medicine
+Debra Henderson,Female,1996-04-09,33748 Rose Lodge,Rogersfort,FL,30646,244-581-2555x07687,Linda,Flores,Primary Care Physician,D-INTER,Internal Medicine
+Caleb Williams,Non-Binary,1971-06-18,07852 Ricky Roads,North Jessicachester,CA,45921,5085681975,William,Griffin,Dermatologist,D-DERMA,Dermatology
+Laurie Duncan,Male,1932-07-29,675 Frank Mill,Santoston,HI,47605,851.710.9202x8628,Miguel,Trujillo,Orthopedic Surgeon,D-ORTHO,Orthopedics
+Carla Morales,Non-Binary,2010-06-05,30253 Ruiz Harbor Apt. 249,West Alanland,TN,94205,001-280-787-6966x156,Phillip,Barnes,Pediatrician,D-PEDIA,Pediatrics
+Ashley Nelson,Female,1981-03-19,4683 Howard Passage,Riceland,HI,26845,832-278-6907,Jennifer,Brown,Cardiologist,D-CARDI,Cardiology
+Cole Shepherd,Male,2022-06-20,2723 Jenkins Crossroad Apt. 928,Katherineton,KY,64712,498-500-3873x69799,Larry,Stone,Sports Medicine Specialist,D-ORTHO,Orthopedics
+Emily Hughes,Male,1964-08-16,26772 Wendy Crest Suite 835,Port James,VA,58757,+1-817-997-9261,Rhonda,Taylor,Neurosurgeon,D-NEURO,Neurology
+Robert Reynolds,Non-Binary,1965-09-23,46049 Jamie Light Apt. 887,Port Jonathan,AR,02166,6495501799,Aaron,Martin,Neurologist,D-NEURO,Neurology
+Dustin Simon,Non-Binary,1999-07-19,69697 Snyder Rue,Lake Karinashire,WV,33812,(234)423-2873x551,Miguel,Trujillo,Orthopedic Surgeon,D-ORTHO,Orthopedics
+Christine Contreras,Male,1951-10-17,31794 Roberts Islands,Jenniferchester,VI,76972,001-396-494-3943x54182,William,Griffin,Dermatologist,D-DERMA,Dermatology
+Dylan Richardson,Male,1987-10-21,275 Pena Row Suite 663,Lake Carl,KY,95878,(923)904-5153,Alejandro,Jones,Neonatologist,D-PEDIA,Pediatrics
+Christopher Perez MD,Non-Binary,1985-06-29,24303 Curtis Gardens,West Jackton,MH,26520,001-297-343-1976x7311,Linda,Flores,Primary Care Physician,D-INTER,Internal Medicine
+Jamie Friedman MD,Male,2000-04-24,9772 Edwards Rest,East Tammy,NH,38641,+1-351-938-7219,Alejandro,Jones,Neonatologist,D-PEDIA,Pediatrics
+Gregory Finley,Male,2016-12-09,91472 Barry Lake Apt. 165,Castrochester,PR,70313,(242)797-9624x40140,Scott,Mcintosh,Cosmetic Surgeon,D-DERMA,Dermatology
+Denise Williams,Female,1989-01-02,6896 Chad Springs,North Katie,AL,28346,974-989-2115,Chad,Farley,Interventional Cardiologist,D-CARDI,Cardiology
+Kelly Jones,Non-Binary,1991-11-07,25058 Massey Tunnel Apt. 932,Lake Christopherville,SD,31817,258-915-5615x6805,Larry,Stone,Sports Medicine Specialist,D-ORTHO,Orthopedics
+Tamara Prince,Female,2001-11-09,727 Brown Spurs Suite 586,Christianside,PW,02701,8249456741,Aaron,Martin,Neurologist,D-NEURO,Neurology
+Crystal Patterson,Male,1941-07-06,3233 Roberto Walks Apt. 059,Julieton,AL,43717,253-215-3006x1972,William,Griffin,Dermatologist,D-DERMA,Dermatology
+Paul Garcia,Male,1934-06-03,671 French Mews Apt. 993,Lake Saraberg,SC,21035,577-621-4493x8642,Scott,Mcintosh,Cosmetic Surgeon,D-DERMA,Dermatology
+David Austin,Non-Binary,2004-08-25,8375 Melendez Island,New Kimberly,IL,95316,+1-212-635-6738x284,Chad,Farley,Interventional Cardiologist,D-CARDI,Cardiology
+Stacey Coleman,Non-Binary,2023-02-20,587 Tammy Skyway Suite 090,Jeffreybury,MH,01577,305.248.5716,William,Griffin,Dermatologist,D-DERMA,Dermatology
+Kathy Mcintosh,Male,1987-02-19,693 Rachel Court Suite 120,Holtberg,VA,76237,321-554-5869,Larry,Stone,Sports Medicine Specialist,D-ORTHO,Orthopedics
+Ronald Lynch,Non-Binary,1997-06-02,1820 Black Divide Suite 605,Karenhaven,CT,53659,296-217-8779,Rhonda,Taylor,Neurosurgeon,D-NEURO,Neurology
+Ryan Osborne,Non-Binary,1962-05-17,8641 Terrance Turnpike,Villarrealfurt,IL,95222,394.747.6771x340,Chad,Farley,Interventional Cardiologist,D-CARDI,Cardiology
+Scott Mason,Female,1944-02-08,89362 Wendy Lodge Apt. 203,Jefferyport,AL,28269,500-965-9517x31027,Barbara,Frazier,Endocrinologist,D-INTER,Internal Medicine
+Gregory Hardin,Non-Binary,1952-07-14,0565 Bell Wall,Lake Steventon,OK,23147,7436429452,Linda,Flores,Primary Care Physician,D-INTER,Internal Medicine
+Ryan Graves,Male,1996-02-03,196 Kaylee Walk Apt. 667,Leehaven,ID,07522,323.789.4483x46318,Chad,Farley,Interventional Cardiologist,D-CARDI,Cardiology
+Nicholas Nichols,Male,1941-06-21,9436 Cook Streets,East Jessica,CO,90732,8839925572,Rhonda,Taylor,Neurosurgeon,D-NEURO,Neurology
+Roger Valdez,Male,1990-05-08,9901 Kristi Vista Suite 297,Lake Danielside,MN,93889,(556)716-5943x90281,Aaron,Martin,Neurologist,D-NEURO,Neurology
+Kathleen Martinez,Non-Binary,2000-05-11,832 King Lock Apt. 274,Daytown,FM,22206,+1-663-477-7049,Phillip,Barnes,Pediatrician,D-PEDIA,Pediatrics
+Virginia Howard,Non-Binary,2024-06-24,562 Diana Via,East Angelabury,FM,76700,624.884.3232,Chad,Farley,Interventional Cardiologist,D-CARDI,Cardiology
+Barry Carlson,Male,1969-03-18,49126 Amanda Expressway Apt. 847,Valeriefort,RI,43388,275.266.1493,William,Griffin,Dermatologist,D-DERMA,Dermatology
+Dana White,Non-Binary,2006-02-17,230 Nathan Villages,Port Melvinburgh,TN,96369,378.611.9298x259,Barbara,Frazier,Endocrinologist,D-INTER,Internal Medicine
+Sara Collins,Non-Binary,1935-01-22,770 Shannon Lane Apt. 127,Nathanburgh,UT,54652,(745)389-7022x071,Alejandro,Jones,Neonatologist,D-PEDIA,Pediatrics
+Rebecca Bryant,Male,1974-02-18,644 Ronald Springs,Brianshire,CA,49461,376-440-4465x619,William,Griffin,Dermatologist,D-DERMA,Dermatology
+Jeremiah Petersen,Non-Binary,1969-10-06,275 Christian Village Apt. 330,Smithview,NM,48013,747.249.5706x429,Larry,Stone,Sports Medicine Specialist,D-ORTHO,Orthopedics
+Megan Moore,Female,2010-12-24,77625 Shea Trace,Annfurt,NV,00931,222-507-9201x6075,Linda,Flores,Primary Care Physician,D-INTER,Internal Medicine
+Gregory Moore,Female,1931-05-05,4504 Nguyen Canyon Suite 336,Lake Sherri,DE,14987,(206)934-9582,Miguel,Trujillo,Orthopedic Surgeon,D-ORTHO,Orthopedics
+Kathy Lee,Non-Binary,1937-02-23,3541 Ellis Vista,West Gary,KS,33615,283.437.5098x72297,Linda,Flores,Primary Care Physician,D-INTER,Internal Medicine
+Adam Velazquez,Male,2011-04-30,273 Lisa Landing,Johnnymouth,CT,73265,+1-830-984-6109,Chad,Farley,Interventional Cardiologist,D-CARDI,Cardiology
+Molly James,Non-Binary,1966-08-16,08783 John Plain,New Chad,SD,55288,+1-481-260-1025x553,Chad,Farley,Interventional Cardiologist,D-CARDI,Cardiology
+William Peterson,Female,1963-10-01,86543 Kristen Plains Apt. 848,Monteschester,PW,03209,2588234255,William,Griffin,Dermatologist,D-DERMA,Dermatology
+Holly Barnes,Female,1954-12-19,31870 Phillips View Apt. 452,Bryanport,NV,18291,970-981-1081x12044,Aaron,Martin,Neurologist,D-NEURO,Neurology
+Matthew Diaz,Male,2021-03-12,6006 Stafford Path Apt. 608,New Rita,IN,74213,+1-254-840-7764x063,Scott,Mcintosh,Cosmetic Surgeon,D-DERMA,Dermatology
+Jim Rivera,Male,1931-12-20,90579 Debra Rue Apt. 559,Scottshire,NC,01956,(368)370-3360x89498,Aaron,Martin,Neurologist,D-NEURO,Neurology
+Aaron Yates Jr.,Female,1953-01-12,2529 Kaiser Fields Suite 570,Belindastad,DC,53864,(922)330-2040x97690,Aaron,Martin,Neurologist,D-NEURO,Neurology
+Yolanda Jones,Male,1963-09-21,11113 Maldonado Walks,South Michaelton,NJ,78904,214-904-8971x210,Rhonda,Taylor,Neurosurgeon,D-NEURO,Neurology
+Katrina Roberts,Male,1977-10-01,4730 Santos Pine,East Katherinestad,FM,83961,3674781698,William,Griffin,Dermatologist,D-DERMA,Dermatology
+Mr. Gabriel Mcbride,Non-Binary,1938-11-20,977 Wilkinson Stream,Mooreland,MS,07270,740.818.4393x25198,Miguel,Trujillo,Orthopedic Surgeon,D-ORTHO,Orthopedics
+Cassandra Maddox,Male,1981-04-27,04488 Wells Trafficway,Phillipview,SC,24589,828.402.6852x5694,Scott,Mcintosh,Cosmetic Surgeon,D-DERMA,Dermatology
+Mary Mcguire,Female,1925-05-06,088 Sheila Street,South Meredith,MA,36759,(762)228-4732x327,Chad,Farley,Interventional Cardiologist,D-CARDI,Cardiology
+Sylvia Norman,Non-Binary,1974-10-18,2778 Martin Springs,Emmaborough,NM,94491,906.918.5940x37984,Scott,Mcintosh,Cosmetic Surgeon,D-DERMA,Dermatology
+William Harrison,Non-Binary,1956-12-22,7370 Waller Locks,South Tracy,VI,18187,445-434-8568x904,William,Griffin,Dermatologist,D-DERMA,Dermatology
+Sophia Martin,Male,1968-02-09,74347 Wilson Cove Apt. 455,Emilychester,GU,50022,+1-740-542-1446x70629,Miguel,Trujillo,Orthopedic Surgeon,D-ORTHO,Orthopedics
+Kelsey Hamilton,Female,1976-01-10,87121 Mary Coves Suite 236,Flemingfort,WY,64548,(527)319-6235x86882,Miguel,Trujillo,Orthopedic Surgeon,D-ORTHO,Orthopedics
+Diane Sims MD,Male,1990-01-02,2884 Cathy Haven Apt. 757,Lake Tamara,MH,83033,285-939-9034,Rhonda,Taylor,Neurosurgeon,D-NEURO,Neurology
+David Arnold,Non-Binary,1951-03-31,72959 Joseph Brook Apt. 682,Aaronbury,FM,28675,(486)641-9214x0634,Alejandro,Jones,Neonatologist,D-PEDIA,Pediatrics
+Wayne Thomas,Non-Binary,1928-12-18,001 Keith Mills,Port Amber,LA,28405,+1-402-200-8644,Scott,Mcintosh,Cosmetic Surgeon,D-DERMA,Dermatology
+Bianca Hebert,Male,1987-06-25,190 Joseph Cliffs Suite 316,New Jamie,IN,17746,+1-547-596-7071x37075,Larry,Stone,Sports Medicine Specialist,D-ORTHO,Orthopedics
+Calvin Peters,Non-Binary,1958-09-23,20360 Kennedy Oval Apt. 875,North Felicia,ME,59915,8855612515,Aaron,Martin,Neurologist,D-NEURO,Neurology
+Paige Parsons,Female,1951-12-22,11830 Cummings Crest,East Nancyshire,MH,22046,994-907-8524x4863,William,Griffin,Dermatologist,D-DERMA,Dermatology
+Kevin Gates,Female,1958-09-16,54989 Paige Groves,Nguyenchester,NC,17661,+1-839-282-0717,Larry,Stone,Sports Medicine Specialist,D-ORTHO,Orthopedics
+Kenneth Wolfe,Non-Binary,1980-06-17,15874 Aaron Plains Suite 756,Khanside,WA,20043,001-595-979-8625x0087,Jennifer,Brown,Cardiologist,D-CARDI,Cardiology
+Philip Moore,Male,1996-04-18,0231 Bonilla Point Suite 188,West Michelle,AZ,21876,800.701.2571x577,Barbara,Frazier,Endocrinologist,D-INTER,Internal Medicine
+Cory Graham,Male,1942-01-18,0790 Duane Streets,Williamborough,TN,31029,3857687217,Aaron,Martin,Neurologist,D-NEURO,Neurology
+Elizabeth Martin,Non-Binary,1989-09-24,31180 Roberts Divide,West Benjamin,MA,87865,607.546.8098x309,Phillip,Barnes,Pediatrician,D-PEDIA,Pediatrics
+Brittany Stevens,Male,2010-03-08,4553 Thomas Drive,Jacksonview,VA,43651,(479)271-6194,Scott,Mcintosh,Cosmetic Surgeon,D-DERMA,Dermatology
+Jeffrey Perez,Male,1934-03-08,5152 Eric Pike Apt. 395,New Sylvia,OH,41290,877-368-8376x2258,Scott,Mcintosh,Cosmetic Surgeon,D-DERMA,Dermatology
+Jesus Dunn,Female,1961-03-02,02988 Douglas Landing,Jacksonstad,UT,03587,695.767.9568x58940,Alejandro,Jones,Neonatologist,D-PEDIA,Pediatrics
+William Jones,Female,1956-01-17,98978 Grant Trace,East Alexanderfort,PA,89448,825-770-0087x7516,Aaron,Martin,Neurologist,D-NEURO,Neurology
+Jennifer Daniel,Non-Binary,1979-12-14,417 Jesse Springs,New Kenneth,DC,59127,(882)931-8539,Chad,Farley,Interventional Cardiologist,D-CARDI,Cardiology
+Bruce Jones,Non-Binary,2004-01-03,94737 Massey Knolls Suite 152,Lake Davidport,RI,16592,+1-878-567-2014x239,Alejandro,Jones,Neonatologist,D-PEDIA,Pediatrics
+Carol Hunt,Male,1936-04-17,06510 Castillo Wall Suite 705,Davismouth,MD,04471,6802792965,Chad,Farley,Interventional Cardiologist,D-CARDI,Cardiology
+Robert Wright,Male,1974-05-29,8988 Wilson Forge,Kelleymouth,TN,23600,001-531-726-6692x543,Scott,Mcintosh,Cosmetic Surgeon,D-DERMA,Dermatology
+Meagan Gibson,Female,1938-01-21,55405 Baldwin Curve Suite 371,Philipview,MA,73744,531-757-5404,Phillip,Barnes,Pediatrician,D-PEDIA,Pediatrics
+Christina Clark,Male,2019-10-31,052 Wilcox Station Apt. 145,Meganmouth,CO,68116,(894)349-4541x404,Larry,Stone,Sports Medicine Specialist,D-ORTHO,Orthopedics
+Mr. Bradley Logan,Male,1959-01-22,35357 Wilkinson Prairie,Courtneyport,WV,50220,(870)329-0362x43593,Aaron,Martin,Neurologist,D-NEURO,Neurology
+Cheryl Osborne,Female,1956-12-14,55168 Derek Center Suite 299,North Tiffany,NV,97056,+1-966-922-7413x2131,Aaron,Martin,Neurologist,D-NEURO,Neurology
+Jennifer Nichols,Male,1926-09-11,447 Lee Pine Apt. 103,South Alexanderfort,CO,65592,(260)234-7876x7119,Miguel,Trujillo,Orthopedic Surgeon,D-ORTHO,Orthopedics
+Steve Johnson,Female,1953-06-29,03100 Green Summit,West Susan,TX,62939,(771)468-3561x0223,Alejandro,Jones,Neonatologist,D-PEDIA,Pediatrics
+Erik Marsh,Male,2016-01-09,9208 Richard Falls,Leefort,TX,57781,+1-505-961-7336x0860,Barbara,Frazier,Endocrinologist,D-INTER,Internal Medicine
+Natalie Oneal,Male,1980-06-21,95253 Dennis Landing Suite 032,East Christopher,MN,17227,414.808.5411x039,Barbara,Frazier,Endocrinologist,D-INTER,Internal Medicine
+Colleen Melendez,Female,1978-03-08,80859 Haynes Extension,East Meghan,VA,45175,219.664.8181,Aaron,Martin,Neurologist,D-NEURO,Neurology
+Stephanie Ashley,Male,1961-04-07,245 Kim Field,Chelseabury,MP,41966,(688)206-5289x275,Barbara,Frazier,Endocrinologist,D-INTER,Internal Medicine
+Rebecca Clark,Male,1990-01-25,46980 Owens Oval,Mendozashire,OR,53157,+1-940-993-6405,Miguel,Trujillo,Orthopedic Surgeon,D-ORTHO,Orthopedics
+James Stephenson,Female,1981-01-07,33650 Donald Rue,Port Jamestown,MO,74087,5608270895,Barbara,Frazier,Endocrinologist,D-INTER,Internal Medicine
+Nicholas Phillips,Male,1988-04-03,42419 Schultz Crescent,Shannontown,DE,52551,527.627.4225,Miguel,Trujillo,Orthopedic Surgeon,D-ORTHO,Orthopedics
+William Fisher,Female,1989-10-26,234 Thompson Manors,Natalietown,UT,33382,522-450-0713x9842,Scott,Mcintosh,Cosmetic Surgeon,D-DERMA,Dermatology
+Andrew Franklin,Male,1996-11-01,63813 Madden Lane Suite 184,Lake Nathanieltown,AR,91823,(223)970-0306,Barbara,Frazier,Endocrinologist,D-INTER,Internal Medicine
+Zachary Franklin,Non-Binary,1926-04-18,142 Johnson Alley,East Paigeberg,AR,29120,+1-820-946-2787x1757,Chad,Farley,Interventional Cardiologist,D-CARDI,Cardiology
+Wendy Hampton,Non-Binary,1928-07-23,54480 Danielle Parks,East Danielside,AS,86307,(965)732-9071,Linda,Flores,Primary Care Physician,D-INTER,Internal Medicine
+Charles Pacheco,Female,2003-03-23,225 Ann Groves Apt. 178,West James,ME,34536,001-545-296-4431x14338,Linda,Flores,Primary Care Physician,D-INTER,Internal Medicine
+Marilyn Blackwell,Female,1972-01-31,9080 Davis Ford,South Logan,AK,52003,949-589-6598x1020,Scott,Mcintosh,Cosmetic Surgeon,D-DERMA,Dermatology
+Mark Bishop,Male,2023-03-17,591 Thomas Mountains,New Henry,AK,59914,+1-514-771-1454x0242,Rhonda,Taylor,Neurosurgeon,D-NEURO,Neurology
+Steven Edwards,Female,2008-05-13,6405 Nash Ports Apt. 276,Amberport,CO,55044,355.591.6822x79025,Miguel,Trujillo,Orthopedic Surgeon,D-ORTHO,Orthopedics
+Peter Odom,Male,1997-10-31,5827 Thompson Prairie Apt. 353,Mcclainbury,DC,43640,001-491-401-9238x579,Aaron,Martin,Neurologist,D-NEURO,Neurology
+Nicholas Murphy,Male,1991-08-15,41539 Hunt Curve,Karenport,ID,37713,721.259.2019x81189,Miguel,Trujillo,Orthopedic Surgeon,D-ORTHO,Orthopedics
+Michael Ford,Non-Binary,1975-02-18,029 Timothy Village Apt. 233,West Alexander,IN,25158,+1-722-591-3873x907,Miguel,Trujillo,Orthopedic Surgeon,D-ORTHO,Orthopedics
+Patrick Newman,Non-Binary,1961-10-07,668 Peter Stream Suite 396,West Stacyhaven,PA,01989,763-908-6700x949,Scott,Mcintosh,Cosmetic Surgeon,D-DERMA,Dermatology
+Jennifer Graves,Non-Binary,1941-03-11,8023 Gomez Hills Suite 920,Port Jeremy,WI,70312,826.998.6489,Chad,Farley,Interventional Cardiologist,D-CARDI,Cardiology
+Phillip Stephenson,Male,1979-02-24,58044 Tracy Turnpike Apt. 552,West Stevenport,AS,37936,338.242.9962x280,Jennifer,Brown,Cardiologist,D-CARDI,Cardiology
+Steven Perry,Non-Binary,2009-05-08,70995 Campbell Station,South Rebecca,CA,88664,001-292-609-9379x3391,Aaron,Martin,Neurologist,D-NEURO,Neurology
+Jose Peters,Male,1950-01-14,59843 Melissa Lights,Markton,AL,30840,426-213-0898x2562,Phillip,Barnes,Pediatrician,D-PEDIA,Pediatrics
+Tina Silva,Non-Binary,1933-02-01,9075 William Corner,East James,MA,82918,+1-882-527-0813,Jennifer,Brown,Cardiologist,D-CARDI,Cardiology
+Andre Hansen,Female,2010-02-17,6127 Diaz Stravenue Apt. 318,Jefferyfurt,SC,22873,3263654305,William,Griffin,Dermatologist,D-DERMA,Dermatology
+Courtney Williams,Non-Binary,2004-11-22,9213 Garcia Roads Apt. 200,Martintown,MO,19094,+1-627-837-8441x3343,Aaron,Martin,Neurologist,D-NEURO,Neurology
+Christopher Bird,Non-Binary,1995-06-17,5774 Melanie Islands,Normaview,IN,98688,(203)387-0146x40222,Alejandro,Jones,Neonatologist,D-PEDIA,Pediatrics
+Lauren Blake,Female,1938-03-02,279 Rhonda Summit Suite 230,Jamesfurt,CT,77916,(739)511-9821,Chad,Farley,Interventional Cardiologist,D-CARDI,Cardiology
+Christina Ryan MD,Male,1992-11-30,382 Coleman Parkways Apt. 253,Jamieburgh,AR,25996,001-993-955-8868x282,Scott,Mcintosh,Cosmetic Surgeon,D-DERMA,Dermatology
+Chad Sullivan,Female,2016-08-31,1273 Todd Squares,Judithfort,NM,66522,498.402.7961x6521,Jennifer,Brown,Cardiologist,D-CARDI,Cardiology
+Kelly Mathis,Non-Binary,2013-08-03,54121 Martin Lake,North Jennifer,MS,08913,439-287-6363x2561,Scott,Mcintosh,Cosmetic Surgeon,D-DERMA,Dermatology
+Mrs. Tonya Nichols,Male,1983-12-08,1954 Kelly Hills,Lake Bailey,WI,08002,3716589660,Linda,Flores,Primary Care Physician,D-INTER,Internal Medicine
+Terry Jefferson,Female,1927-01-10,8464 Nicholas Village,Holmesstad,IL,92787,001-960-906-9248,Alejandro,Jones,Neonatologist,D-PEDIA,Pediatrics
+Melissa Gomez,Female,1928-04-27,921 Martin Underpass Suite 761,New Andrea,SC,67618,259-684-6850,William,Griffin,Dermatologist,D-DERMA,Dermatology
+Pamela Smith,Female,1958-01-09,55046 Eric Ports,Christinaberg,AR,17609,(433)276-2096x285,Barbara,Frazier,Endocrinologist,D-INTER,Internal Medicine
+Brian Bruce,Non-Binary,2016-02-23,92137 Obrien Lodge,Nicholsonland,WY,04328,001-351-818-4690x8993,Scott,Mcintosh,Cosmetic Surgeon,D-DERMA,Dermatology
+Wendy Harris,Male,1963-03-02,749 Morgan Run Suite 985,Brianstad,OR,52918,001-255-622-8867x03211,Aaron,Martin,Neurologist,D-NEURO,Neurology
+Steven Robertson,Male,2006-07-03,643 Elizabeth Groves Suite 859,Port Hayleyberg,OK,01940,+1-921-596-3323x9922,Phillip,Barnes,Pediatrician,D-PEDIA,Pediatrics
+Justin Robinson,Non-Binary,1968-10-12,273 Bennett Overpass,New Rachel,MA,62101,001-312-301-5387,Larry,Stone,Sports Medicine Specialist,D-ORTHO,Orthopedics
+Lauren Alvarez,Female,1981-11-13,12641 Perry Cliffs Apt. 485,Paulmouth,TX,63609,582-986-6901x9902,William,Griffin,Dermatologist,D-DERMA,Dermatology
+Carl Pugh,Male,1969-06-06,6127 Anderson Viaduct,North Davidport,PA,47193,687-560-2663x60628,William,Griffin,Dermatologist,D-DERMA,Dermatology
+Jimmy Long,Female,1930-07-23,96910 Shaffer Villages,West Jamesfort,WV,63194,(925)245-6648x9746,Rhonda,Taylor,Neurosurgeon,D-NEURO,Neurology
+Chris Howe,Non-Binary,1941-09-09,13460 Christopher Plaza Suite 011,Malloryshire,ID,99853,393-632-5351,Linda,Flores,Primary Care Physician,D-INTER,Internal Medicine
+Ashley Taylor,Female,1935-12-09,5766 Catherine Station Suite 261,Hectorton,ID,30706,001-775-669-8626,Rhonda,Taylor,Neurosurgeon,D-NEURO,Neurology
+Leonard Rogers,Female,1946-07-09,92900 Sharon Prairie,Ryanhaven,ME,35802,+1-791-430-5650x78232,Chad,Farley,Interventional Cardiologist,D-CARDI,Cardiology
+David Mays,Male,2006-05-12,7109 White Mountains,South Triciaview,KY,25278,+1-427-376-7761x28426,Linda,Flores,Primary Care Physician,D-INTER,Internal Medicine
+Jasmine Simon,Non-Binary,1984-07-16,3845 Glenn Light,West Jacob,TX,89421,410-955-2889x8625,Barbara,Frazier,Endocrinologist,D-INTER,Internal Medicine
+Rachel Hess,Male,1928-06-28,51409 Heidi Via,Johnstonfurt,OK,80499,5842216635,Rhonda,Taylor,Neurosurgeon,D-NEURO,Neurology
+Ryan Rich,Male,1962-11-11,0375 Evans Walk,North Tony,FM,68710,423-645-6254x37376,Barbara,Frazier,Endocrinologist,D-INTER,Internal Medicine
+Teresa Chase,Non-Binary,1989-09-18,269 Cynthia Fall,East Christinaside,IN,13019,(284)697-9522x763,Barbara,Frazier,Endocrinologist,D-INTER,Internal Medicine
+Joel Esparza,Non-Binary,2024-10-03,208 Justin Drive,Laurenbury,UT,81912,(424)843-4989x2695,Larry,Stone,Sports Medicine Specialist,D-ORTHO,Orthopedics
+Teresa Bailey,Non-Binary,1944-08-10,857 Gomez Islands,Macdonaldville,NH,38516,001-251-985-2850x4180,Rhonda,Taylor,Neurosurgeon,D-NEURO,Neurology
+Shannon Williams,Non-Binary,2017-08-21,09238 Holland Brook Apt. 361,Markshire,NY,12638,+1-443-967-2231x883,Larry,Stone,Sports Medicine Specialist,D-ORTHO,Orthopedics
+Jennifer Wright,Non-Binary,1953-04-17,3452 Mendez Loop,New Peggy,DC,99582,673-886-8749,Chad,Farley,Interventional Cardiologist,D-CARDI,Cardiology
+Keith Lopez,Male,1962-03-21,6968 Brown Key Suite 423,Kristinmouth,WV,94293,(833)849-8895x564,Scott,Mcintosh,Cosmetic Surgeon,D-DERMA,Dermatology
+Lisa Williams,Female,1956-05-08,40925 Julie Crest,North Allisonmouth,DE,08152,478.634.1130x829,Larry,Stone,Sports Medicine Specialist,D-ORTHO,Orthopedics
+Lisa Phillips,Non-Binary,1974-01-17,1995 Haley Terrace,South Kelseystad,UT,94538,222-950-6887,William,Griffin,Dermatologist,D-DERMA,Dermatology
+Charles Franco,Male,2010-04-30,7226 Stephanie Heights,New Carrie,AK,70688,526-488-1084x1328,Phillip,Barnes,Pediatrician,D-PEDIA,Pediatrics
+John Taylor,Male,1946-10-11,9688 Elizabeth Hollow Suite 701,Shellyfurt,NV,92723,001-467-819-1573x541,Rhonda,Taylor,Neurosurgeon,D-NEURO,Neurology
+Laura Cook,Female,1941-06-16,7795 Luke Ranch Apt. 621,West Norman,DE,12639,(338)629-4482x260,Jennifer,Brown,Cardiologist,D-CARDI,Cardiology
+Amber Franklin,Female,1959-08-16,78493 Berg Skyway,New Lorifort,LA,78824,+1-789-752-9911,Phillip,Barnes,Pediatrician,D-PEDIA,Pediatrics
+Ronald Ball,Female,1968-07-13,0831 Jones Inlet,Port Natasha,MD,10545,(895)228-2265,Jennifer,Brown,Cardiologist,D-CARDI,Cardiology
+Joshua Ortiz,Female,1986-07-16,552 Reed Trace Suite 624,Thomasbury,CT,40445,001-682-611-0478x241,Barbara,Frazier,Endocrinologist,D-INTER,Internal Medicine
+Zachary Ferguson,Male,2000-06-19,967 Taylor Corner,New Elizabeth,AZ,81721,984-912-9352x51729,Alejandro,Jones,Neonatologist,D-PEDIA,Pediatrics
+Kevin Gray,Male,1986-02-05,43619 Vickie Circle,South Joshuaside,OH,66598,(692)447-5465,Jennifer,Brown,Cardiologist,D-CARDI,Cardiology
+Jasmine Cline,Male,1952-12-31,5255 Dylan Street Apt. 500,West Felicia,UT,57904,(657)212-4501x72837,Phillip,Barnes,Pediatrician,D-PEDIA,Pediatrics
+Michelle Cross,Male,1982-04-26,702 Michael Square,North John,ME,04664,+1-468-474-9132,Chad,Farley,Interventional Cardiologist,D-CARDI,Cardiology
+Samantha Ortega,Non-Binary,1998-01-15,3571 Rodriguez Curve,Port Brian,MI,28794,6688509248,Barbara,Frazier,Endocrinologist,D-INTER,Internal Medicine
+Pamela Ibarra,Non-Binary,2015-07-19,8192 Linda Overpass,Juanland,TN,71068,001-820-879-9047x244,William,Griffin,Dermatologist,D-DERMA,Dermatology
+Christopher Ball,Male,1987-12-20,91870 Herrera Trail,East Nancyfort,MI,43920,951.910.6036,Aaron,Martin,Neurologist,D-NEURO,Neurology
+John Fitzgerald,Non-Binary,2012-10-20,4747 Scott Springs,Langside,AS,19239,+1-234-399-1975x09835,Scott,Mcintosh,Cosmetic Surgeon,D-DERMA,Dermatology
+Gina Williams,Non-Binary,2003-05-22,0825 Linda Estate Suite 417,East Anna,NM,68026,001-967-832-7978x908,Miguel,Trujillo,Orthopedic Surgeon,D-ORTHO,Orthopedics
+Richard Montgomery,Female,1950-12-13,59531 Matthew Course,Lake Christopher,PR,34179,+1-383-437-1683x88112,Phillip,Barnes,Pediatrician,D-PEDIA,Pediatrics
+Karen Gutierrez,Male,1937-06-04,94862 John Forks,Fieldsberg,NY,17385,9923978580,Rhonda,Taylor,Neurosurgeon,D-NEURO,Neurology
+David Bowman,Non-Binary,1963-08-13,63942 John Inlet,Jesusside,WY,81080,506.777.5366x6991,William,Griffin,Dermatologist,D-DERMA,Dermatology
+Jason Clark,Female,1964-08-15,58482 Cynthia Expressway Suite 545,Ryanchester,IL,88998,001-725-687-6689x5227,Jennifer,Brown,Cardiologist,D-CARDI,Cardiology
+Michael Miller,Female,1985-07-13,2203 Porter Terrace Apt. 107,Eduardoside,NH,57228,001-410-558-7854,Barbara,Frazier,Endocrinologist,D-INTER,Internal Medicine
+Joseph Holmes,Male,1991-11-28,48609 Evans Cliffs Apt. 509,New John,ID,92885,982-544-0065x40504,Aaron,Martin,Neurologist,D-NEURO,Neurology
+Sandra Taylor DDS,Non-Binary,1986-10-02,8433 Stephanie Overpass,North Tamaratown,MS,43231,483.932.7947,Aaron,Martin,Neurologist,D-NEURO,Neurology
+Catherine Henderson,Non-Binary,1962-06-30,24640 Melanie Forest Apt. 108,Port Tricia,DE,77919,817-869-9188x2744,Miguel,Trujillo,Orthopedic Surgeon,D-ORTHO,Orthopedics
+Gary Jackson,Female,1959-08-08,3099 Michael Fort Apt. 793,Rodriguezmouth,FL,44343,001-869-977-6389,Barbara,Frazier,Endocrinologist,D-INTER,Internal Medicine
+Ryan Jones MD,Male,1986-05-22,20574 Bailey Skyway Suite 293,Port Stacey,LA,36955,+1-835-855-0224x8266,William,Griffin,Dermatologist,D-DERMA,Dermatology
+Janet Sutton,Male,1970-11-13,40882 Stephen Courts Suite 725,Port Austin,IL,02992,(814)946-4871x3716,Scott,Mcintosh,Cosmetic Surgeon,D-DERMA,Dermatology
+Brandon Nicholson,Female,1988-09-30,6499 Brian Viaduct,Smithfurt,VT,03596,477.970.1576x220,Chad,Farley,Interventional Cardiologist,D-CARDI,Cardiology
+Victor Taylor,Female,1987-10-18,902 Martinez Corners Suite 281,Craigborough,SD,47141,+1-976-896-0007x77038,Miguel,Trujillo,Orthopedic Surgeon,D-ORTHO,Orthopedics
+Amber Howard,Male,1927-03-18,181 Corey Grove Suite 512,South Donnatown,KY,60959,439.470.5567,Alejandro,Jones,Neonatologist,D-PEDIA,Pediatrics
+Charles Walters,Male,1939-05-24,697 Lisa Port,East Elizabeth,MP,18235,001-733-983-0162x36156,Phillip,Barnes,Pediatrician,D-PEDIA,Pediatrics
+David Bell,Female,1937-08-06,4009 Zoe Stravenue Suite 390,Aaronmouth,NJ,22961,889-986-2752,Scott,Mcintosh,Cosmetic Surgeon,D-DERMA,Dermatology
+Ariel Levy,Female,2009-04-15,66305 Andrew Squares,Danielmouth,CO,61915,(942)257-1797x8812,Barbara,Frazier,Endocrinologist,D-INTER,Internal Medicine
+Paula Kennedy,Male,1965-12-17,8125 Hendrix Causeway Apt. 295,Prattshire,AS,30678,780-414-4074x0166,Aaron,Martin,Neurologist,D-NEURO,Neurology
+Dylan Adkins,Male,1980-10-27,7060 Miller Harbor Apt. 460,Janicebury,WV,11409,583-834-1181,Rhonda,Taylor,Neurosurgeon,D-NEURO,Neurology
+Kathy Nguyen,Non-Binary,1975-09-07,943 Rebecca Meadow,Prattbury,WI,92764,001-359-950-3897x01850,Alejandro,Jones,Neonatologist,D-PEDIA,Pediatrics
+Mr. Douglas Cross,Female,1935-07-09,9720 Tracy Row,Benjaminborough,MI,83912,539-905-9426x302,Barbara,Frazier,Endocrinologist,D-INTER,Internal Medicine
+Elizabeth Johnson,Female,2020-05-03,880 Mike Cape,Thomaston,HI,69136,+1-593-378-9718x068,Linda,Flores,Primary Care Physician,D-INTER,Internal Medicine
+Mario Roberts,Female,2006-09-28,1150 Miller Dam,North Lindsayfurt,NV,79837,565-521-4129x75448,Jennifer,Brown,Cardiologist,D-CARDI,Cardiology
+Nicole Cox,Male,2013-12-17,224 Black Groves,Jonesville,PR,31395,7197067379,William,Griffin,Dermatologist,D-DERMA,Dermatology
+Francisco Mcdonald,Male,1995-07-24,38384 Alvarado Way Apt. 180,Port Donnabury,NV,88785,001-880-904-5669x222,Jennifer,Brown,Cardiologist,D-CARDI,Cardiology
+Joseph Carey,Male,1965-06-03,616 Blevins Isle Suite 542,South Melissa,RI,05138,328-349-5764x474,William,Griffin,Dermatologist,D-DERMA,Dermatology
+Ryan Pitts,Female,2013-07-09,96658 Stacey Plains Apt. 790,Franklinbury,ND,05532,(791)907-4838,Barbara,Frazier,Endocrinologist,D-INTER,Internal Medicine
+Samantha Thomas,Male,1957-07-11,9014 Jackson Canyon Apt. 784,New Robertland,GA,32269,(518)981-0471x23133,Larry,Stone,Sports Medicine Specialist,D-ORTHO,Orthopedics
+Carla Mcbride,Non-Binary,1984-12-27,17891 Mary Orchard,New Jonathanfort,IN,32911,+1-841-952-9936x883,William,Griffin,Dermatologist,D-DERMA,Dermatology
+Marcus Wagner,Male,1982-09-25,3745 Lee Dale,West Bobbystad,TN,37692,(398)803-5644x185,Scott,Mcintosh,Cosmetic Surgeon,D-DERMA,Dermatology
+James Little,Female,2016-03-15,63791 Gallagher Greens Apt. 071,Gonzalesview,GA,93356,+1-640-818-0751,Alejandro,Jones,Neonatologist,D-PEDIA,Pediatrics
+Maria Campbell,Non-Binary,1991-05-02,7795 Francis Islands Suite 675,North Timothyberg,VT,64016,722-916-7304,William,Griffin,Dermatologist,D-DERMA,Dermatology
+Brittany Campbell,Female,2008-01-15,990 Rivera Court Suite 863,South Beth,MH,23180,876.564.2543,Alejandro,Jones,Neonatologist,D-PEDIA,Pediatrics
+Derek Jenkins,Male,1971-08-16,04455 Matthew Loop Apt. 979,North Daniel,AS,77537,+1-445-895-2382x90390,William,Griffin,Dermatologist,D-DERMA,Dermatology
+Tammy Herrera,Male,1930-01-17,8813 Brandon Ridge Suite 046,Brightview,ME,56771,630-529-3892x86424,Alejandro,Jones,Neonatologist,D-PEDIA,Pediatrics
+Jennifer Spears,Non-Binary,2018-10-05,4926 Castillo Well,West Stephanie,AL,35101,644-771-5872x74079,Aaron,Martin,Neurologist,D-NEURO,Neurology
+Natalie Nguyen,Non-Binary,1944-06-02,42948 Alex Underpass,Raymondton,MH,80468,+1-378-487-9290,Phillip,Barnes,Pediatrician,D-PEDIA,Pediatrics
+Anthony Newman,Female,1940-03-20,041 Thomas Creek Apt. 446,Mcconnellhaven,VT,25759,001-351-637-1718x989,Larry,Stone,Sports Medicine Specialist,D-ORTHO,Orthopedics
+John Martin,Female,2011-03-29,2368 Lee Points,Port Larryburgh,NJ,35413,+1-451-762-8095x546,Rhonda,Taylor,Neurosurgeon,D-NEURO,Neurology
+Sylvia Green,Non-Binary,1995-08-14,6434 Mcdonald Extensions,Emilyside,NJ,43903,(850)440-8485x17486,Larry,Stone,Sports Medicine Specialist,D-ORTHO,Orthopedics
+Kevin Jones,Female,1975-05-11,1066 Charles Prairie Apt. 910,Jordanview,OH,06778,001-560-794-5255x074,Linda,Flores,Primary Care Physician,D-INTER,Internal Medicine
+Brian Oneal,Male,2006-11-14,2371 Melanie Mill,Jenkinsport,PR,22624,8428132053,Barbara,Frazier,Endocrinologist,D-INTER,Internal Medicine
+Randy Miller,Male,2020-02-15,33043 Gonzalez Oval Suite 495,West Bryan,NJ,03963,788-458-1051x71171,Linda,Flores,Primary Care Physician,D-INTER,Internal Medicine
+Samuel Schroeder,Male,1936-09-15,23773 Duncan Point Suite 774,Malonefort,IA,97370,855-304-0812x889,Phillip,Barnes,Pediatrician,D-PEDIA,Pediatrics
+Sarah Lopez,Female,2021-05-04,0599 Richard Course,Sophialand,ND,33107,(607)950-2118x13732,William,Griffin,Dermatologist,D-DERMA,Dermatology
+Scott Kirby,Male,1925-03-26,54374 Danny Mountains Suite 625,North Matthew,FM,96714,450-785-9747x94143,Scott,Mcintosh,Cosmetic Surgeon,D-DERMA,Dermatology
+Marissa Williams,Non-Binary,1955-02-05,2003 Christina Summit,Port Joseph,SD,69114,(247)444-7107x3473,William,Griffin,Dermatologist,D-DERMA,Dermatology
+Jessica Wood,Female,1965-03-22,202 Marc Track Suite 463,New Rebeccaburgh,ID,89069,905-873-9829x782,William,Griffin,Dermatologist,D-DERMA,Dermatology
+Brenda Scott,Female,1952-02-08,1667 Sawyer Manors Apt. 252,New Christine,WA,60606,392-564-9541,Rhonda,Taylor,Neurosurgeon,D-NEURO,Neurology
+Vanessa Johnson,Male,1927-01-05,101 Barbara Estates,Jasonmouth,FL,85821,+1-319-720-1965x29228,Miguel,Trujillo,Orthopedic Surgeon,D-ORTHO,Orthopedics
+Stephen Jones,Female,1975-09-08,095 Ray Ports,Port Jasmineland,SC,12873,714-868-3672,Scott,Mcintosh,Cosmetic Surgeon,D-DERMA,Dermatology
+Matthew Neal,Non-Binary,1937-12-05,55677 Jordan Pike,Christopherchester,MP,99268,8137764036,Rhonda,Taylor,Neurosurgeon,D-NEURO,Neurology
+Shawn Bartlett,Male,1951-04-18,940 Brady Forks,New Brian,ND,73689,+1-409-339-5473x724,Larry,Stone,Sports Medicine Specialist,D-ORTHO,Orthopedics
+Christine Duncan,Male,1962-03-15,5573 Kathleen Port Suite 792,Pattersonborough,VI,36226,001-943-562-8658,Rhonda,Taylor,Neurosurgeon,D-NEURO,Neurology
+Cassandra Bailey,Male,2004-12-11,28444 Amy Estates,Jasminhaven,AK,23394,592-902-1546,Miguel,Trujillo,Orthopedic Surgeon,D-ORTHO,Orthopedics
+Travis Nash,Non-Binary,1925-01-08,8142 Stephens Junction,North Kevin,MP,28345,683.832.9702,Linda,Flores,Primary Care Physician,D-INTER,Internal Medicine
+Kevin Hopkins,Non-Binary,1961-05-22,8314 Cody Ways Apt. 703,South Kristenmouth,ME,97306,9123669409,William,Griffin,Dermatologist,D-DERMA,Dermatology
+Madison Barnett,Non-Binary,1972-02-04,493 Andrew Lakes Suite 651,Michaelfort,DE,13144,948-213-1293x843,Linda,Flores,Primary Care Physician,D-INTER,Internal Medicine
+Erik Smith,Non-Binary,2012-04-18,37199 Mitchell Orchard,Karenshire,RI,10367,001-661-547-4253x7269,Phillip,Barnes,Pediatrician,D-PEDIA,Pediatrics
+Dylan Turner,Male,2014-07-07,57516 Elizabeth Lodge,New Hayleyfort,WV,16635,397.376.1601,Phillip,Barnes,Pediatrician,D-PEDIA,Pediatrics
+Katherine Bennett,Female,1965-04-26,4760 Daniel Village,New George,OR,19868,+1-893-989-0695x0192,William,Griffin,Dermatologist,D-DERMA,Dermatology
+Roger Edwards,Male,1956-05-31,47111 Medina Lakes Suite 873,Vasquezborough,PR,65794,(247)406-6163x2984,Scott,Mcintosh,Cosmetic Surgeon,D-DERMA,Dermatology
+Erika Sharp,Female,1950-06-06,4806 Sharon Lodge,Duncanmouth,SD,19326,635-989-4602x3619,Phillip,Barnes,Pediatrician,D-PEDIA,Pediatrics
+Richard Burton,Non-Binary,2012-01-11,31912 Spears Haven,Sanchezmouth,KS,40575,378-663-2712x3099,Linda,Flores,Primary Care Physician,D-INTER,Internal Medicine
+Stacy Conrad,Non-Binary,1963-03-23,3583 Michael Forest Apt. 807,Lake Mark,ND,02793,237-583-2769x350,William,Griffin,Dermatologist,D-DERMA,Dermatology
+Steven Harrison,Non-Binary,1980-11-20,30953 Powell Islands Suite 362,North Emily,CA,89076,649.920.9864x11081,Linda,Flores,Primary Care Physician,D-INTER,Internal Medicine
+Nathan Hunter,Non-Binary,1928-12-19,42799 Henry Glens Apt. 960,Garyberg,GA,40601,001-207-334-8319,Miguel,Trujillo,Orthopedic Surgeon,D-ORTHO,Orthopedics
+Linda Baker,Male,1995-10-31,9649 Griffin Extension Apt. 989,Christinetown,PA,65504,495-736-6475,Alejandro,Jones,Neonatologist,D-PEDIA,Pediatrics
+Maria White PhD,Male,1937-06-30,85469 Mcdonald Ranch,Stephaniechester,AZ,53450,350.580.2579x45574,Scott,Mcintosh,Cosmetic Surgeon,D-DERMA,Dermatology
+Ian Aguilar,Male,1970-01-08,080 Ramsey Square,Robertsland,VI,04243,3947488697,Alejandro,Jones,Neonatologist,D-PEDIA,Pediatrics
+Eric Farley,Non-Binary,1935-02-25,8689 Schwartz Islands Apt. 362,West Trevorhaven,SC,74748,001-416-829-5230x50294,Rhonda,Taylor,Neurosurgeon,D-NEURO,Neurology
+Dr. James Cook,Male,1984-09-23,707 Brenda Alley Apt. 667,Collinschester,NC,33578,366.441.0795x8335,Alejandro,Jones,Neonatologist,D-PEDIA,Pediatrics
+Aaron Ramos,Male,1991-07-07,54066 Francis Courts,Robertborough,MS,44815,292.248.9788x92584,Rhonda,Taylor,Neurosurgeon,D-NEURO,Neurology
+Mary Simon,Male,1965-03-04,636 Maria Rue,New Brian,WV,71452,(352)435-0681x657,Barbara,Frazier,Endocrinologist,D-INTER,Internal Medicine
+Megan Diaz,Non-Binary,1975-08-10,527 Tamara Highway Suite 436,Stewarttown,GA,04924,4953051961,Larry,Stone,Sports Medicine Specialist,D-ORTHO,Orthopedics
+Shane Oliver,Male,1943-01-18,580 Beard Square Apt. 443,East Bryce,DC,91798,341-256-5987x72476,Barbara,Frazier,Endocrinologist,D-INTER,Internal Medicine
+Jonathon Miller,Male,1976-08-21,39927 Courtney Bridge,Greerstad,AK,58114,468.594.9284,Rhonda,Taylor,Neurosurgeon,D-NEURO,Neurology
+Mackenzie Brennan,Male,1942-02-15,00673 Mary Parkway,North Sharonshire,KS,52285,364.628.6424x202,William,Griffin,Dermatologist,D-DERMA,Dermatology
+Jeffrey Hughes,Female,2019-01-19,719 Parks Corners,Lesliechester,OH,05759,+1-562-813-8521x56182,Linda,Flores,Primary Care Physician,D-INTER,Internal Medicine
+James Spears,Male,1952-06-15,6057 Williams Ramp,South Baileyfurt,MI,50854,797-489-2271,William,Griffin,Dermatologist,D-DERMA,Dermatology
+Christopher Ruiz,Female,1983-05-21,50035 Hill Lights Suite 116,Erinland,CO,84814,+1-424-746-0911,Miguel,Trujillo,Orthopedic Surgeon,D-ORTHO,Orthopedics
+Victor Horton,Male,2008-05-01,947 John Fields Suite 197,Matthewsmouth,GU,30112,848.363.8694x123,Barbara,Frazier,Endocrinologist,D-INTER,Internal Medicine
+Chad Murphy,Male,1929-01-06,670 Young Turnpike,Lake Breannaburgh,SD,19006,735-359-2447x0736,Phillip,Barnes,Pediatrician,D-PEDIA,Pediatrics
+Kimberly Davis,Non-Binary,2009-03-11,50068 Jones Stravenue Suite 597,East Zachary,CO,09501,+1-988-550-4800,Rhonda,Taylor,Neurosurgeon,D-NEURO,Neurology
+Megan Lee,Non-Binary,1933-11-01,3181 Evan Villages Suite 706,Lake Jademouth,NY,84393,334.344.7939,Jennifer,Brown,Cardiologist,D-CARDI,Cardiology
+William Green,Female,1970-04-08,9291 Chad View,Moraport,ND,03010,001-454-746-0277x877,Jennifer,Brown,Cardiologist,D-CARDI,Cardiology
+Kevin Peck,Non-Binary,2016-11-28,6115 Ramsey Lakes,Smithmouth,VT,03533,(536)524-9734,Jennifer,Brown,Cardiologist,D-CARDI,Cardiology
+Angela Perez,Non-Binary,1995-08-09,6127 Thomas Walks Apt. 002,Anthonyton,MH,69012,4795039120,Aaron,Martin,Neurologist,D-NEURO,Neurology
+Dr. Angelica Higgins,Male,2018-07-31,065 Nunez Cove,North Michelle,DE,40724,763.950.9453,Larry,Stone,Sports Medicine Specialist,D-ORTHO,Orthopedics
+Mathew Miller,Non-Binary,1932-12-04,58667 Rodriguez Rapid Apt. 550,North Kristastad,IN,61116,+1-767-592-3391x117,Phillip,Barnes,Pediatrician,D-PEDIA,Pediatrics
+Nicole Ryan,Male,1943-12-28,533 Martin Manor,Wagnerbury,MH,48302,829-852-6206x594,Phillip,Barnes,Pediatrician,D-PEDIA,Pediatrics
+Katherine Delacruz,Female,1939-01-02,073 Phelps Wells Apt. 711,Ramirezburgh,IL,80618,001-633-325-0668x974,Miguel,Trujillo,Orthopedic Surgeon,D-ORTHO,Orthopedics
+Carrie Chang,Non-Binary,1936-08-16,173 Ashley Knolls Apt. 594,Shellyfort,NC,98461,246-868-6752,Aaron,Martin,Neurologist,D-NEURO,Neurology
+Bruce Williamson,Non-Binary,1942-05-30,35592 Regina Landing Suite 853,West Dawn,NV,14945,(401)212-6035,Jennifer,Brown,Cardiologist,D-CARDI,Cardiology
+Terrance Brady,Non-Binary,2003-10-28,6621 Cynthia Ford Suite 894,West John,IN,59793,(859)291-9490,Scott,Mcintosh,Cosmetic Surgeon,D-DERMA,Dermatology
+Beverly Weiss,Male,1974-09-01,024 Roberts Ridge Apt. 725,South Scottbury,DE,48200,470.267.3529,Linda,Flores,Primary Care Physician,D-INTER,Internal Medicine
+Mrs. Toni Brooks,Non-Binary,1967-07-12,75556 Russell Drives,Andersonland,NY,81716,353.352.5933,Barbara,Frazier,Endocrinologist,D-INTER,Internal Medicine
+Mrs. Karina Hill,Non-Binary,1988-08-24,72366 Nichols Highway,West Wendy,LA,01733,267.736.8109x7660,Alejandro,Jones,Neonatologist,D-PEDIA,Pediatrics
+Jeremy Bell,Non-Binary,2019-09-13,45045 Clark Ways,West Sarahberg,VI,03963,+1-738-305-7791x325,William,Griffin,Dermatologist,D-DERMA,Dermatology
+Angela Greene,Non-Binary,1985-08-20,26963 Heather Spur Suite 023,Lake Chadview,NM,30867,(514)579-3930,Aaron,Martin,Neurologist,D-NEURO,Neurology
+Courtney Bailey,Male,2016-01-26,619 Smith Row,East Antonio,HI,47523,+1-628-820-8540,Linda,Flores,Primary Care Physician,D-INTER,Internal Medicine
+Andrea Stevens,Male,2020-04-06,999 Larry Square,Susanmouth,MN,35946,(914)717-2518x822,Jennifer,Brown,Cardiologist,D-CARDI,Cardiology
+Sherry Serrano,Non-Binary,1926-12-25,82595 Hodges Club Apt. 537,South Nathan,AK,95087,722-356-0256x12612,Barbara,Frazier,Endocrinologist,D-INTER,Internal Medicine
+Sara Lee,Non-Binary,1948-08-30,661 Fox Island,Ashleybury,NE,29608,001-379-593-3413x0076,Rhonda,Taylor,Neurosurgeon,D-NEURO,Neurology
