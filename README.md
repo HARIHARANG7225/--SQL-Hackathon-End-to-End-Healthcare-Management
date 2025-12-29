@@ -1,1 +1,0 @@
-# --SQL-Hackathon-End-to-End-Healthcare-Management
